@@ -1,4 +1,4 @@
-### Hi there 👋
+我是李健宇，来自广东潮州。爱好摇滚乐，电吉他初学者。目前就读于广东工业大学软件工程专业。
 
 <!--
 **Rainfally/Rainfally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
