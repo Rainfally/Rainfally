@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\code\结对项目\源.cpp(92,17): warning C4129: “G”: 不可识别的字符转义序列
+D:\code\结对项目\源.cpp(99,17): warning C4129: “G”: 不可识别的字符转义序列
+  结对项目.vcxproj -> D:\code\结对项目\x64\Debug\结对项目.exe
